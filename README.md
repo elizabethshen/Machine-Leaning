@@ -16,11 +16,8 @@ Projects include cancer detection, predicting economic trends, predicting custom
 
 - K-Nearest Neighbours <br>
 - Evaluation Metrics in Classification <br>
-- Introduction to Decision Trees <br>
-- Building Decision Trees <br>
-- Intro to Logistic Regression<br>
-- Logistic regression vs Linear regression <br>
-- Logistic Regression Training <br>
+- Decision Trees <br>
+- Logistic Regression<br>
 - Support Vector Machine <br><br>
 
 - k-Means <br>
