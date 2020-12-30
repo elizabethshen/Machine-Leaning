@@ -1,6 +1,7 @@
-# Machine-Leaning
+# Machine-Learning
 
-This repo is a collection of Machine Leaning Algorithms from IBM Professional Data Science certificate program. <br>
+This repo is a collection of Machine Leaning Algorithms which I have learned and practiced, from the IBM Professional Data Science certificate program.
+ <br>
 
 A general overview of Machine Learning topics such as **supervised vs unsupervised learning,  model evaluation, and Machine Learning algorithms**, the pros and cons of each method, and different classification accuracy metrics.<br>
 
@@ -22,7 +23,7 @@ Projects include cancer detection, predicting economic trends, predicting custom
 
 - k-Means <br>
 - Hierarchical Clustering <br>
-- DBSCAN <br>
-- Clustering <br>
+- DBSCAN <br> <br>
+
 - Content-based Recommender Systems <br>
 - Collaborative Filtering Recommender Systems <br>
