@@ -21,7 +21,7 @@ Projects include cancer detection, predicting economic trends, predicting custom
 - Logistic Regression<br>
 - Support Vector Machine <br><br>
 
-- k-Means <br>
+- K-Means <br>
 - Hierarchical Clustering <br>
 - DBSCAN <br> <br>
 
