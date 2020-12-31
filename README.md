@@ -1,6 +1,6 @@
 # Machine-Learning
 
-This repo is a collection of Machine Leaning Algorithms which I have learned and practiced, from the IBM Professional Data Science certificate program.
+This repository is a collection of Machine Leaning Algorithms which I have learned and practiced, from the IBM Professional Data Science certificate program.
  <br>
 
 A general overview of Machine Learning topics such as **supervised vs unsupervised learning,  model evaluation, and Machine Learning algorithms**, the pros and cons of each method, and different classification accuracy metrics.<br>
